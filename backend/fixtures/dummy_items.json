@@ -1,0 +1,74 @@
+[
+  {
+    "model": "items.item",
+    "pk": 1,
+    "fields": {
+      "name": "Burger",
+      "category": "hot",
+      "price": "10.00",
+      "image": "image/upload/v1721761495/s6lgipzkfyzbapopefcj.png",
+      "created_at": "2024-07-23T19:04:55.777Z",
+      "updated_at": "2024-07-23T19:04:55.777Z"
+    }
+  },
+  {
+    "model": "items.item",
+    "pk": 2,
+    "fields": {
+      "name": "Burger",
+      "category": "hot",
+      "price": "10.00",
+      "image": "image/upload/v1721761497/e5mqey2i5kqvkyt0ccc1.png",
+      "created_at": "2024-07-23T19:04:58.063Z",
+      "updated_at": "2024-07-23T19:04:58.063Z"
+    }
+  },
+  {
+    "model": "items.item",
+    "pk": 3,
+    "fields": {
+      "name": "Pizza",
+      "category": "bagel",
+      "price": "10.00",
+      "image": "image/upload/v1721761528/xzk1uyq4evkvvhs4r0lh.png",
+      "created_at": "2024-07-23T19:05:28.729Z",
+      "updated_at": "2024-07-23T19:05:28.729Z"
+    }
+  },
+  {
+    "model": "items.item",
+    "pk": 4,
+    "fields": {
+      "name": "Burger",
+      "category": "cold",
+      "price": "5.00",
+      "image": "image/upload/v1721766572/ihn108cpptngyrkqhcyn.png",
+      "created_at": "2024-07-23T20:29:33.306Z",
+      "updated_at": "2024-07-23T20:29:33.307Z"
+    }
+  },
+  {
+    "model": "items.item",
+    "pk": 5,
+    "fields": {
+      "name": "Burger",
+      "category": "cold",
+      "price": "6.00",
+      "image": "image/upload/v1721766615/vbigfy1xybh1exldfvyr.png",
+      "created_at": "2024-07-23T20:30:16.282Z",
+      "updated_at": "2024-07-23T20:30:16.282Z"
+    }
+  },
+  {
+    "model": "items.item",
+    "pk": 6,
+    "fields": {
+      "name": "Burger",
+      "category": "bagel",
+      "price": "8.00",
+      "image": "image/upload/v1721766627/mu5ttxydxtgputg34mdg.png",
+      "created_at": "2024-07-23T20:30:30.046Z",
+      "updated_at": "2024-07-23T20:30:30.046Z"
+    }
+  }
+]
